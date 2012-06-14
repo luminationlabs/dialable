@@ -73,7 +73,7 @@ module Dialable
           now = Time.now
           local_utc_offset = now.utc_offset/3600
 
-          if tz =~ /UTC(-\d+)/
+          if tz =~ /UTC([-+]\d+)/
             self.timezones << tz
             utc_offset = $1.to_i
             self.relative_timezones << (utc_offset) - local_utc_offset
