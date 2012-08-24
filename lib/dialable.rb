@@ -48,9 +48,9 @@ module Dialable
       data_path ||= File.join(File.dirname(__FILE__), '..', 'data')
       NANP = YAML.load_file(data_path + "/nanpa.yaml")
     end
-    
+
     attr_accessor :areacode, :prefix, :line, :extension, :location, :country, :timezones, :relative_timezones, :raw_timezone
-    
+
     def initialize(parts={})
       self.areacode  = parts[:areacode]  ? parts[:areacode]  : nil
       self.prefix    = parts[:prefix]    ? parts[:prefix]    : nil
@@ -71,6 +71,7 @@ module Dialable
           self.relative_timezones = []
           tz = AreaCodes::NANP[code][:timezone]
           now = Time.now
+          now_eastern = now.in_time_zone('Eastern Time (US & Canada)')
           local_utc_offset = now.utc_offset/3600
 
           if tz =~ /UTC([-+]\d+)/
@@ -81,7 +82,7 @@ module Dialable
             tz.split(//).each do |zone|  # http://www.timeanddate.com/library/abbreviations/timezones/na/
               zone = "HA" if zone == "H"
               zone = "AK" if zone == "K"
-              tz = zone + (now.dst? ? "D" : "S") + "T"  # This is cludgey
+              tz = zone + (now_eastern.dst? ? "D" : "S") + "T"  # This is cludgey
               self.timezones << tz
               delta = nil
               if Time.zone_offset(tz)
@@ -97,7 +98,7 @@ module Dialable
                 when /HA?[SD]T/
                   delta = -10 - local_utc_offset
                 end
-                delta = delta - 1 if delta and now.dst?
+                delta = delta - 1 if delta and now_eastern.dst?
               end
               # puts "#{delta} // #{Time.zone_offset(tz)} // #{tz} // #{local_utc_offset}"
               self.relative_timezones << delta if delta
@@ -112,7 +113,7 @@ module Dialable
     def timezone
       @timezones.first if @timezones
     end
-    
+
     def timezone=(tz)
       @timezones = [tz] if tz
     end
@@ -120,7 +121,7 @@ module Dialable
     # def relative_timezones
     #   rt = []
     #   @timezones.each do |tz|
-    #     rt << 
+    #     rt <<
     #   end
     #   rt
     # end
@@ -129,14 +130,14 @@ module Dialable
       Patterns::VALID.each do |pattern|
         return Dialable::NANP.new(:areacode => $1, :prefix => $2, :line => $3, :extension => $4) if number =~ pattern
       end
-      
+
       raise InvalidNANPError, "Not a valid NANP Phone Number."
     end
 
     def erc?
       return ServiceCodes::ERC[@areacode].nil?
     end
-  
+
     def to_s
       rtn = "#{@prefix}-#{@line}"
       rtn = "#{@areacode}-#{rtn}" if @areacode
@@ -156,7 +157,7 @@ module Dialable
       rtn = "#{@areacode}#{rtn}" if @areacode
       rtn
     end
-  
+
     def to_hash
       return {
         :areacode => @areacode,
@@ -165,5 +166,5 @@ module Dialable
         :extension => @extension
       }
     end
-  end  
+  end
 end
