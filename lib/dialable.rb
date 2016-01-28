@@ -44,8 +44,7 @@ module Dialable
     ##
     # Valid area codes per nanpa.com
     module AreaCodes
-      data_path = Gem::datadir('dialable')
-      data_path ||= File.join(File.dirname(__FILE__), '..', 'data')
+      data_file = File.join(File.dirname(__FILE__), '..', 'data')
       NANP = YAML.load_file(data_path + "/nanpa.yaml")
     end
 
