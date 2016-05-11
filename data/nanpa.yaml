@@ -1,1204 +1,1204 @@
---- 
+---
 :created: 2011-06-22 07:55:00.068372 -04:00
-201: 
+201:
   :country: US
   :timezone: E
   :location: NJ
-202: 
+202:
   :country: US
   :timezone: E
   :location: DC
-203: 
+203:
   :country: US
   :timezone: E
   :location: CT
-204: 
+204:
   :country: CANADA
   :timezone: C
   :location: Manitoba
-205: 
+205:
   :country: US
   :timezone: C
   :location: AL
-206: 
+206:
   :country: US
   :timezone: P
   :location: WA
-207: 
+207:
   :country: US
   :timezone: E
   :location: ME
-208: 
+208:
   :country: US
   :timezone: MP
   :location: ID
-209: 
+209:
   :country: US
   :timezone: P
   :location: CA
-210: 
+210:
   :country: US
   :timezone: C
   :location: TX
-212: 
+212:
   :country: US
   :timezone: E
   :location: NY
-213: 
+213:
   :country: US
   :timezone: P
   :location: CA
-214: 
+214:
   :country: US
   :timezone: C
   :location: TX
-215: 
+215:
   :country: US
   :timezone: E
   :location: PA
-216: 
+216:
   :country: US
   :timezone: E
   :location: OH
-217: 
+217:
   :country: US
   :timezone: C
   :location: IL
-218: 
+218:
   :country: US
   :timezone: C
   :location: MN
-219: 
+219:
   :country: US
   :timezone: EC
   :location: IN
-224: 
+224:
   :country: US
   :timezone: C
   :location: IL
-225: 
+225:
   :country: US
   :timezone: C
   :location: LA
-226: 
+226:
   :country: CANADA
   :timezone: E
   :location: Ontario
-228: 
+228:
   :country: US
   :timezone: C
   :location: MS
-229: 
+229:
   :country: US
   :timezone: E
   :location: GA
-231: 
+231:
   :country: US
   :timezone: E
   :location: MI
-234: 
+234:
   :country: US
   :timezone: E
   :location: OH
-239: 
+239:
   :country: US
   :timezone: E
   :location: FL
-240: 
+240:
   :country: US
   :timezone: E
   :location: MD
-242: 
+242:
   :country: BAHAMAS
   :timezone: E
-246: 
+246:
   :country: BARBADOS
   :timezone: A
-248: 
+248:
   :country: US
   :timezone: E
   :location: MI
-249: 
+249:
   :country: CANADA
   :timezone: E
   :location: Ontario
-250: 
+250:
   :country: CANADA
   :timezone: P
   :location: British Columbia
-251: 
+251:
   :country: US
   :timezone: C
   :location: AL
-252: 
+252:
   :country: US
   :timezone: E
   :location: NC
-253: 
+253:
   :country: US
   :timezone: P
   :location: WA
-254: 
+254:
   :country: US
   :timezone: C
   :location: TX
-256: 
+256:
   :country: US
   :timezone: C
   :location: AL
-260: 
+260:
   :country: US
   :timezone: E
   :location: IN
-262: 
+262:
   :country: US
   :timezone: C
   :location: WI
-264: 
+264:
   :country: ANGUILLA
   :timezone: A
-267: 
+267:
   :country: US
   :timezone: E
   :location: PA
-268: 
+268:
   :country: ANTIGUA/BARBUDA
   :timezone: A
-269: 
+269:
   :country: US
   :timezone: E
   :location: MI
-270: 
+270:
   :country: US
   :timezone: EC
   :location: KY
-276: 
+276:
   :country: US
   :timezone: E
   :location: VA
-281: 
+281:
   :country: US
   :timezone: C
   :location: TX
-284: 
+284:
   :country: BRITISH VIRGIN ISLANDS
   :timezone: A
-289: 
+289:
   :country: CANADA
   :timezone: E
   :location: Ontario
-301: 
+301:
   :country: US
   :timezone: E
   :location: MD
-302: 
+302:
   :country: US
   :timezone: E
   :location: DE
-303: 
+303:
   :country: US
   :timezone: M
   :location: CO
-304: 
+304:
   :country: US
   :timezone: E
   :location: WV
-305: 
+305:
   :country: US
   :timezone: E
   :location: FL
-306: 
+306:
   :country: CANADA
   :timezone: C
   :location: Saskatchewan
-307: 
+307:
   :country: US
   :timezone: M
   :location: WY
-308: 
+308:
   :country: US
   :timezone: CM
   :location: NE
-309: 
+309:
   :country: US
   :timezone: C
   :location: IL
-310: 
+310:
   :country: US
   :timezone: P
   :location: CA
-312: 
+312:
   :country: US
   :timezone: C
   :location: IL
-313: 
+313:
   :country: US
   :timezone: E
   :location: MI
-314: 
+314:
   :country: US
   :timezone: C
   :location: MO
-315: 
+315:
   :country: US
   :timezone: E
   :location: NY
-316: 
+316:
   :country: US
   :timezone: C
   :location: KS
-317: 
+317:
   :country: US
   :timezone: E
   :location: IN
-318: 
+318:
   :country: US
   :timezone: C
   :location: LA
-319: 
+319:
   :country: US
   :timezone: C
   :location: IA
-320: 
+320:
   :country: US
   :timezone: C
   :location: MN
-321: 
+321:
   :country: US
   :timezone: E
   :location: FL
-323: 
+323:
   :country: US
   :timezone: P
   :location: CA
-325: 
+325:
   :country: US
   :timezone: C
   :location: TX
-330: 
+330:
   :country: US
   :timezone: E
   :location: OH
-331: 
+331:
   :country: US
   :timezone: C
   :location: IL
-334: 
+334:
   :country: US
   :timezone: C
   :location: AL
-336: 
+336:
   :country: US
   :timezone: E
   :location: NC
-337: 
+337:
   :country: US
   :timezone: C
   :location: LA
-339: 
+339:
   :country: US
   :timezone: E
   :location: MA
-340: 
+340:
   :country: US
   :timezone: A
   :location: USVI
-343: 
+343:
   :country: CANADA
   :location: Ontario
-345: 
+345:
   :country: CAYMAN ISLANDS
   :timezone: E
-347: 
+347:
   :country: US
   :timezone: E
   :location: NY
-351: 
+351:
   :country: US
   :timezone: E
   :location: MA
-352: 
+352:
   :country: US
   :timezone: E
   :location: FL
-360: 
+360:
   :country: US
   :timezone: P
   :location: WA
-361: 
+361:
   :country: US
   :timezone: C
   :location: TX
-385: 
+385:
   :country: US
   :timezone: M
   :location: UT
-386: 
+386:
   :country: US
   :timezone: E
   :location: FL
-401: 
+401:
   :country: US
   :timezone: E
   :location: RI
-402: 
+402:
   :country: US
   :timezone: C
   :location: NE
-403: 
+403:
   :country: CANADA
   :timezone: M
   :location: Alberta
-404: 
+404:
   :country: US
   :timezone: E
   :location: GA
-405: 
+405:
   :country: US
   :timezone: C
   :location: OK
-406: 
+406:
   :country: US
   :timezone: M
   :location: MT
-407: 
+407:
   :country: US
   :timezone: E
   :location: FL
-408: 
+408:
   :country: US
   :timezone: P
   :location: CA
-409: 
+409:
   :country: US
   :timezone: C
   :location: TX
-410: 
+410:
   :country: US
   :timezone: E
   :location: MD
-412: 
+412:
   :country: US
   :timezone: E
   :location: PA
-413: 
+413:
   :country: US
   :timezone: E
   :location: MA
-414: 
+414:
   :country: US
   :timezone: C
   :location: WI
-415: 
+415:
   :country: US
   :timezone: P
   :location: CA
-416: 
+416:
   :country: CANADA
   :timezone: E
   :location: Ontario
-417: 
+417:
   :country: US
   :timezone: C
   :location: MO
-418: 
+418:
   :country: CANADA
   :timezone: E
   :location: Quebec
-419: 
+419:
   :country: US
   :timezone: E
   :location: OH
-423: 
+423:
   :country: US
   :timezone: EC
   :location: TN
-424: 
+424:
   :country: US
   :timezone: P
   :location: CA
-425: 
+425:
   :country: US
   :timezone: P
   :location: WA
-430: 
+430:
   :country: US
   :timezone: C
   :location: TX
-432: 
+432:
   :country: US
   :timezone: C
   :location: TX
-434: 
+434:
   :country: US
   :timezone: E
   :location: VA
-435: 
+435:
   :country: US
   :timezone: M
   :location: UT
-438: 
+438:
   :country: CANADA
   :timezone: E
   :location: Quebec
-440: 
+440:
   :country: US
   :timezone: E
   :location: OH
-441: 
+441:
   :country: BERMUDA
   :timezone: A
-442: 
+442:
   :country: US
   :timezone: P
   :location: CA
-443: 
+443:
   :country: US
   :timezone: E
   :location: MD
-450: 
+450:
   :country: CANADA
   :timezone: E
   :location: Quebec
 456: {}
 
-458: 
+458:
   :country: US
   :timezone: MP
   :location: OR
-469: 
+469:
   :country: US
   :timezone: C
   :location: TX
-470: 
+470:
   :country: US
   :timezone: E
   :location: GA
-473: 
+473:
   :country: GRENADA
   :timezone: A
-475: 
+475:
   :country: US
   :timezone: E
   :location: CT
-478: 
+478:
   :country: US
   :timezone: E
   :location: GA
-479: 
+479:
   :country: US
   :timezone: C
   :location: AR
-480: 
+480:
   :country: US
-  :timezone: M
+  :timezone: (UTC-7)
   :location: AZ
-484: 
+484:
   :country: US
   :timezone: E
   :location: PA
 500: {}
 
-501: 
+501:
   :country: US
   :timezone: C
   :location: AR
-502: 
+502:
   :country: US
   :timezone: E
   :location: KY
-503: 
+503:
   :country: US
   :timezone: P
   :location: OR
-504: 
+504:
   :country: US
   :timezone: C
   :location: LA
-505: 
+505:
   :country: US
   :timezone: M
   :location: NM
-506: 
+506:
   :country: CANADA
   :timezone: A
   :location: New Brunswick
-507: 
+507:
   :country: US
   :timezone: C
   :location: MN
-508: 
+508:
   :country: US
   :timezone: E
   :location: MA
-509: 
+509:
   :country: US
   :timezone: P
   :location: WA
-510: 
+510:
   :country: US
   :timezone: P
   :location: CA
-512: 
+512:
   :country: US
   :timezone: C
   :location: TX
-513: 
+513:
   :country: US
   :timezone: E
   :location: OH
-514: 
+514:
   :country: CANADA
   :timezone: E
   :location: Quebec
-515: 
+515:
   :country: US
   :timezone: C
   :location: IA
-516: 
+516:
   :country: US
   :timezone: E
   :location: NY
-517: 
+517:
   :country: US
   :timezone: E
   :location: MI
-518: 
+518:
   :country: US
   :timezone: E
   :location: NY
-519: 
+519:
   :country: CANADA
   :timezone: E
   :location: Ontario
-520: 
+520:
   :country: US
-  :timezone: M
+  :timezone: (UTC-7)
   :location: AZ
-530: 
+530:
   :country: US
   :timezone: P
   :location: CA
 533: {}
 
-534: 
+534:
   :country: US
   :timezone: C
   :location: WI
-539: 
+539:
   :country: US
   :timezone: C
   :location: OK
-540: 
+540:
   :country: US
   :timezone: E
   :location: VA
-541: 
+541:
   :country: US
   :timezone: MP
   :location: OR
 544: {}
 
-551: 
+551:
   :country: US
   :timezone: E
   :location: NJ
-559: 
+559:
   :country: US
   :timezone: P
   :location: CA
-561: 
+561:
   :country: US
   :timezone: E
   :location: FL
-562: 
+562:
   :country: US
   :timezone: P
   :location: CA
-563: 
+563:
   :country: US
   :timezone: C
   :location: IA
-567: 
+567:
   :country: US
   :timezone: E
   :location: OH
-570: 
+570:
   :country: US
   :timezone: E
   :location: PA
-571: 
+571:
   :country: US
   :timezone: E
   :location: VA
-573: 
+573:
   :country: US
   :timezone: C
   :location: MO
-574: 
+574:
   :country: US
   :timezone: EC
   :location: IN
-575: 
+575:
   :country: US
   :timezone: M
   :location: NM
-579: 
+579:
   :country: CANADA
   :timezone: E
   :location: Quebec
-580: 
+580:
   :country: US
   :timezone: C
   :location: OK
-581: 
+581:
   :country: CANADA
   :location: Quebec
-585: 
+585:
   :country: US
   :timezone: E
   :location: NY
-586: 
+586:
   :country: US
   :timezone: E
   :location: MI
-587: 
+587:
   :country: CANADA
   :timezone: M
   :location: Alberta
-600: 
+600:
   :country: CANADA
-601: 
+601:
   :country: US
   :timezone: C
   :location: MS
-602: 
+602:
   :country: US
-  :timezone: M
+  :timezone: (UTC-7)
   :location: AZ
-603: 
+603:
   :country: US
   :timezone: E
   :location: NH
-604: 
+604:
   :country: CANADA
   :timezone: P
   :location: British Columbia
-605: 
+605:
   :country: US
   :timezone: CM
   :location: SD
-606: 
+606:
   :country: US
   :timezone: EC
   :location: KY
-607: 
+607:
   :country: US
   :timezone: E
   :location: NY
-608: 
+608:
   :country: US
   :timezone: C
   :location: WI
-609: 
+609:
   :country: US
   :timezone: E
   :location: NJ
-610: 
+610:
   :country: US
   :timezone: E
   :location: PA
-612: 
+612:
   :country: US
   :timezone: C
   :location: MN
-613: 
+613:
   :country: CANADA
   :timezone: E
   :location: Ontario
-614: 
+614:
   :country: US
   :timezone: E
   :location: OH
-615: 
+615:
   :country: US
   :timezone: C
   :location: TN
-616: 
+616:
   :country: US
   :timezone: E
   :location: MI
-617: 
+617:
   :country: US
   :timezone: E
   :location: MA
-618: 
+618:
   :country: US
   :timezone: C
   :location: IL
-619: 
+619:
   :country: US
   :timezone: P
   :location: CA
-620: 
+620:
   :country: US
   :timezone: CM
   :location: KS
-623: 
+623:
   :country: US
-  :timezone: M
+  :timezone: (UTC-7)
   :location: AZ
-626: 
+626:
   :country: US
   :timezone: P
   :location: CA
-630: 
+630:
   :country: US
   :timezone: C
   :location: IL
-631: 
+631:
   :country: US
   :timezone: E
   :location: NY
-636: 
+636:
   :country: US
   :timezone: C
   :location: MO
-641: 
+641:
   :country: US
   :timezone: C
   :location: IA
-646: 
+646:
   :country: US
   :timezone: E
   :location: NY
-647: 
+647:
   :country: CANADA
   :timezone: E
   :location: Ontario
-649: 
+649:
   :country: TURKS & CAICOS ISLANDS
   :timezone: E
-650: 
+650:
   :country: US
   :timezone: P
   :location: CA
-651: 
+651:
   :country: US
   :timezone: C
   :location: MN
-657: 
+657:
   :country: US
   :timezone: P
   :location: CA
-660: 
+660:
   :country: US
   :timezone: C
   :location: MO
-661: 
+661:
   :country: US
   :timezone: P
   :location: CA
-662: 
+662:
   :country: US
   :timezone: C
   :location: MS
-664: 
+664:
   :country: MONTSERRAT
   :timezone: A
-670: 
+670:
   :country: US
   :timezone: (UTC+10)
   :location: CNMI
-671: 
+671:
   :country: US
   :timezone: (UTC+10)
   :location: GU
-678: 
+678:
   :country: US
   :timezone: E
   :location: GA
-681: 
+681:
   :country: US
   :timezone: E
   :location: WV
-682: 
+682:
   :country: US
   :timezone: C
   :location: TX
-684: 
+684:
   :country: US
   :location: AS
 700: {}
 
-701: 
+701:
   :country: US
   :timezone: CM
   :location: ND
-702: 
+702:
   :country: US
   :timezone: P
   :location: NV
-703: 
+703:
   :country: US
   :timezone: E
   :location: VA
-704: 
+704:
   :country: US
   :timezone: E
   :location: NC
-705: 
+705:
   :country: CANADA
   :timezone: E
   :location: Ontario
-706: 
+706:
   :country: US
   :timezone: E
   :location: GA
-707: 
+707:
   :country: US
   :timezone: P
   :location: CA
-708: 
+708:
   :country: US
   :timezone: C
   :location: IL
-709: 
+709:
   :country: CANADA
   :timezone: NA
   :location: Newfoundland
-710: 
+710:
   :country: US
-712: 
+712:
   :country: US
   :timezone: C
   :location: IA
-713: 
+713:
   :country: US
   :timezone: C
   :location: TX
-714: 
+714:
   :country: US
   :timezone: P
   :location: CA
-715: 
+715:
   :country: US
   :timezone: C
   :location: WI
-716: 
+716:
   :country: US
   :timezone: E
   :location: NY
-717: 
+717:
   :country: US
   :timezone: E
   :location: PA
-718: 
+718:
   :country: US
   :timezone: E
   :location: NY
-719: 
+719:
   :country: US
   :timezone: M
   :location: CO
-720: 
+720:
   :country: US
   :timezone: M
   :location: CO
-724: 
+724:
   :country: US
   :timezone: E
   :location: PA
-727: 
+727:
   :country: US
   :timezone: E
   :location: FL
-731: 
+731:
   :country: US
   :timezone: C
   :location: TN
-732: 
+732:
   :country: US
   :timezone: E
   :location: NJ
-734: 
+734:
   :country: US
   :timezone: E
   :location: MI
-740: 
+740:
   :country: US
   :timezone: E
   :location: OH
-747: 
+747:
   :country: US
   :timezone: P
   :location: CA
-754: 
+754:
   :country: US
   :timezone: E
   :location: FL
-757: 
+757:
   :country: US
   :timezone: E
   :location: VA
-758: 
+758:
   :country: ST. LUCIA
   :timezone: A
-760: 
+760:
   :country: US
   :timezone: P
   :location: CA
-762: 
+762:
   :country: US
   :timezone: E
   :location: GA
-763: 
+763:
   :country: US
   :timezone: C
   :location: MN
-765: 
+765:
   :country: US
   :timezone: E
   :location: IN
-767: 
+767:
   :country: DOMINICA
   :timezone: A
-769: 
+769:
   :country: US
   :timezone: C
   :location: MS
-770: 
+770:
   :country: US
   :timezone: E
   :location: GA
-772: 
+772:
   :country: US
   :timezone: E
   :location: FL
-773: 
+773:
   :country: US
   :timezone: C
   :location: IL
-774: 
+774:
   :country: US
   :timezone: E
   :location: MA
-775: 
+775:
   :country: US
   :timezone: P
   :location: NV
-778: 
+778:
   :country: CANADA
   :timezone: P
   :location: British Columbia
-779: 
+779:
   :country: US
   :timezone: C
   :location: IL
-780: 
+780:
   :country: CANADA
   :timezone: M
   :location: Alberta
-781: 
+781:
   :country: US
   :timezone: E
   :location: MA
-784: 
+784:
   :country: ST. VINCENT & GRENADINES
   :timezone: A
-785: 
+785:
   :country: US
   :timezone: CM
   :location: KS
-786: 
+786:
   :country: US
   :timezone: E
   :location: FL
-787: 
+787:
   :country: US
   :timezone: A
   :location: Puerto Rico
 800: {}
 
-801: 
+801:
   :country: US
   :timezone: M
   :location: UT
-802: 
+802:
   :country: US
   :timezone: E
   :location: VT
-803: 
+803:
   :country: US
   :timezone: E
   :location: SC
-804: 
+804:
   :country: US
   :timezone: E
   :location: VA
-805: 
+805:
   :country: US
   :timezone: P
   :location: CA
-806: 
+806:
   :country: US
   :timezone: C
   :location: TX
-807: 
+807:
   :country: CANADA
   :timezone: EC
   :location: Ontario
-808: 
+808:
   :country: US
   :timezone: (UTC-10)
   :location: HI
-809: 
+809:
   :country: Dominican Republic
   :timezone: E
-810: 
+810:
   :country: US
   :timezone: E
   :location: MI
-812: 
+812:
   :country: US
   :timezone: EC
   :location: IN
-813: 
+813:
   :country: US
   :timezone: E
   :location: FL
-814: 
+814:
   :country: US
   :timezone: E
   :location: PA
-815: 
+815:
   :country: US
   :timezone: C
   :location: IL
-816: 
+816:
   :country: US
   :timezone: C
   :location: MO
-817: 
+817:
   :country: US
   :timezone: C
   :location: TX
-818: 
+818:
   :country: US
   :timezone: P
   :location: CA
-819: 
+819:
   :country: CANADA
   :timezone: E
   :location: Quebec
-828: 
+828:
   :country: US
   :timezone: E
   :location: NC
-829: 
+829:
   :country: Dominican Republic
   :timezone: E
-830: 
+830:
   :country: US
   :timezone: C
   :location: TX
-831: 
+831:
   :country: US
   :timezone: P
   :location: CA
-832: 
+832:
   :country: US
   :timezone: C
   :location: TX
-843: 
+843:
   :country: US
   :timezone: E
   :location: SC
-845: 
+845:
   :country: US
   :timezone: E
   :location: NY
-847: 
+847:
   :country: US
   :timezone: C
   :location: IL
-848: 
+848:
   :country: US
   :timezone: E
   :location: NJ
-849: 
+849:
   :country: Dominican Republic
   :timezone: E
-850: 
+850:
   :country: US
   :timezone: EC
   :location: FL
 855: {}
 
-856: 
+856:
   :country: US
   :timezone: E
   :location: NJ
-857: 
+857:
   :country: US
   :timezone: E
   :location: MA
-858: 
+858:
   :country: US
   :timezone: P
   :location: CA
-859: 
+859:
   :country: US
   :timezone: E
   :location: KY
-860: 
+860:
   :country: US
   :timezone: E
   :location: CT
-862: 
+862:
   :country: US
   :timezone: E
   :location: NJ
-863: 
+863:
   :country: US
   :timezone: E
   :location: FL
-864: 
+864:
   :country: US
   :timezone: E
   :location: SC
-865: 
+865:
   :country: US
   :timezone: E
   :location: TN
 866: {}
 
-867: 
+867:
   :country: CANADA
   :timezone: CMP
   :location: Yukon, NW Terr., Nunavut
-868: 
+868:
   :country: TRINIDAD AND TOBAGO
   :timezone: A
   :location: Trinidad & Tobago
-869: 
+869:
   :country: ST. KITTS AND NEVIS
   :timezone: A
   :location: St. Kitts & Nevis
-870: 
+870:
   :country: US
   :timezone: C
   :location: AR
-872: 
+872:
   :country: US
   :timezone: C
   :location: IL
-876: 
+876:
   :country: JAMAICA
   :timezone: E
 877: {}
 
-878: 
+878:
   :country: US
   :timezone: E
   :location: PA
@@ -1206,179 +1206,179 @@
 
 900: {}
 
-901: 
+901:
   :country: US
   :timezone: C
   :location: TN
-902: 
+902:
   :country: CANADA
   :timezone: A
   :location: Nova Scotia, Prince Edward Island
-903: 
+903:
   :country: US
   :timezone: C
   :location: TX
-904: 
+904:
   :country: US
   :timezone: E
   :location: FL
-905: 
+905:
   :country: CANADA
   :timezone: E
   :location: Ontario
-906: 
+906:
   :country: US
   :timezone: EC
   :location: MI
-907: 
+907:
   :country: US
   :timezone: (UTC-9)
   :location: AK
-908: 
+908:
   :country: US
   :timezone: E
   :location: NJ
-909: 
+909:
   :country: US
   :timezone: P
   :location: CA
-910: 
+910:
   :country: US
   :timezone: E
   :location: NC
-912: 
+912:
   :country: US
   :timezone: E
   :location: GA
-913: 
+913:
   :country: US
   :timezone: C
   :location: KS
-914: 
+914:
   :country: US
   :timezone: E
   :location: NY
-915: 
+915:
   :country: US
   :timezone: CM
   :location: TX
-916: 
+916:
   :country: US
   :timezone: P
   :location: CA
-917: 
+917:
   :country: US
   :timezone: E
   :location: NY
-918: 
+918:
   :country: US
   :timezone: C
   :location: OK
-919: 
+919:
   :country: US
   :timezone: E
   :location: NC
-920: 
+920:
   :country: US
   :timezone: C
   :location: WI
-925: 
+925:
   :country: US
   :timezone: P
   :location: CA
-928: 
+928:
   :country: US
-  :timezone: M
+  :timezone: (UTC-7)
   :location: AZ
-929: 
+929:
   :country: US
   :timezone: E
   :location: NY
-931: 
+931:
   :country: US
   :timezone: EC
   :location: TN
-936: 
+936:
   :country: US
   :timezone: C
   :location: TX
-937: 
+937:
   :country: US
   :timezone: E
   :location: OH
-938: 
+938:
   :country: US
   :timezone: C
   :location: AL
-939: 
+939:
   :country: US
   :timezone: A
   :location: Puerto Rico
-940: 
+940:
   :country: US
   :timezone: C
   :location: TX
-941: 
+941:
   :country: US
   :timezone: E
   :location: FL
-947: 
+947:
   :country: US
   :timezone: E
   :location: MI
-949: 
+949:
   :country: US
   :timezone: P
   :location: CA
-951: 
+951:
   :country: US
   :timezone: P
   :location: CA
-952: 
+952:
   :country: US
   :timezone: C
   :location: MN
-954: 
+954:
   :country: US
   :timezone: E
   :location: FL
-956: 
+956:
   :country: US
   :timezone: C
   :location: TX
-970: 
+970:
   :country: US
   :timezone: M
   :location: CO
-971: 
+971:
   :country: US
   :timezone: P
   :location: OR
-972: 
+972:
   :country: US
   :timezone: C
   :location: TX
-973: 
+973:
   :country: US
   :timezone: E
   :location: NJ
-978: 
+978:
   :country: US
   :timezone: E
   :location: MA
-979: 
+979:
   :country: US
   :timezone: C
   :location: TX
-980: 
+980:
   :country: US
   :timezone: E
   :location: NC
-985: 
+985:
   :country: US
   :timezone: C
   :location: LA
-989: 
+989:
   :country: US
   :timezone: E
   :location: MI
