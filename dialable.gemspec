@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.licenses = ['MIT', 'LGPL-2']
   s.name     = "dialable"
-  s.version  = "0.5.1"
+  s.version  = "0.5.2"
   s.date     = "2011-06-22"
   s.summary  = "Provides parsing and output of phone numbers according to NANPA standards."
   s.email    = "chorn@chorn.com"
