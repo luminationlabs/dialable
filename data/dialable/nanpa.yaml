@@ -726,7 +726,7 @@
 480:
   :country: US
   :timezones:
-  - America/Denver
+  - America/Phoenix
   :location: AZ
 484:
   :country: US
@@ -829,7 +829,7 @@
 520:
   :country: US
   :timezones:
-  - America/Denver
+  - America/Phoenix
   :location: AZ
 521:
   :country: 
@@ -1010,7 +1010,7 @@
 602:
   :country: US
   :timezones:
-  - America/Denver
+  - America/Phoenix
   :location: AZ
 603:
   :country: US
@@ -1108,7 +1108,7 @@
 623:
   :country: US
   :timezones:
-  - America/Denver
+  - America/Phoenix
   :location: AZ
 626:
   :country: US
@@ -1937,7 +1937,7 @@
 928:
   :country: US
   :timezones:
-  - America/Denver
+  - America/Phoenix
   :location: AZ
 929:
   :country: US
