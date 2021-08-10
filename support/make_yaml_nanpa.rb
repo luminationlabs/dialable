@@ -24,26 +24,26 @@ CSV.parse(curl, :headers => headers) do |row|
                  when 10
                    'Pacific/Guam'
                  when -10
-                   'US/Hawaii'
+                   'Pacific/Honolulu'
                  when -9
-                   'US/Alaska'
+                   'America/Anchorage'
                  end
   elsif country && country.upcase == "CANADA"
     if raw_timezones.split(//).any?
       timezones << raw_timezones.split(//).collect do |timezone|
         case timezone
         when 'E'
-          "Canada/Eastern"
+          "America/Toronto"
         when 'C'
-          "Canada/Central"
+          "America/Winnipeg"
         when 'M'
-          "Canada/Mountain"
+          "America/Edmonton"
         when 'P'
-          "Canada/Pacific"
+          "America/Vancouver"
         when 'N'
-          "Canada/Newfoundland"
+          "America/St_Johns"
         when 'A'
-          "Canada/Atlantic"
+          "America/Halifax"
         else
           'America/None'
         end
@@ -51,11 +51,11 @@ CSV.parse(curl, :headers => headers) do |row|
     else
       timezones << case location
                    when 'ONTARIO'
-                     "Canada/Eastern"
+                     "America/Toronto"
                    when 'MANITOBA'
-                     "Canada/Central"
+                     "America/Winnipeg"
                    when 'QUEBEC'
-                     "Canada/Eastern"
+                     "America/Toronto"
                    else
                      'America/None'
                    end
@@ -64,17 +64,17 @@ CSV.parse(curl, :headers => headers) do |row|
     timezones << raw_timezones.split(//).collect do |timezone|
       case timezone
       when 'E'
-        "US/Eastern"
+        "America/New_York"
       when 'C'
-        "US/Central"
+        "America/Chicago"
       when 'M'
-        "US/Mountain"
+        "America/Denver"
       when 'P'
-        "US/Pacific"
+        "America/Los_Angeles"
       else
         case location
         when 'USVI'
-          "America/Virgin"
+          "America/Port_of_Spain"
         when 'PUERTO RICO'
           "America/Puerto_Rico"
         when 'AS'
@@ -87,7 +87,7 @@ CSV.parse(curl, :headers => headers) do |row|
   elsif country
     timezones << case country.upcase
                  when "BAHAMAS"
-                   "America/Virgin"
+                   "America/Port_of_Spain"
                  when "BARBADOS"
                    "America/Barbados"
                  when "ANGUILLA"
@@ -97,29 +97,29 @@ CSV.parse(curl, :headers => headers) do |row|
                  when "BERMUDA"
                    "Atlantic/Bermuda"
                  when "BRITISH VIRGIN ISLANDS"
-                   "America/Virgin"
+                   "America/Port_of_Spain"
                  when "CAYMAN ISLANDS"
                    "America/Cayman"
                  when "GRENADA"
                    "America/Grenada"
                  when "TURKS & CAICOS ISLANDS"
-                   "America/Virgin"
+                   "America/Port_of_Spain"
                  when "MONTSERRAT"
                    "America/Montserrat"
                  when "SINT MAARTEN"
-                   "America/Virgin"
+                   "America/Port_of_Spain"
                  when "ST. LUCIA"
                    "America/St_Lucia"
                  when "DOMINICA"
                    "America/Dominica"
                  when "ST. VINCENT & GRENADINES"
-                   "America/Virgin"
+                   "America/Port_of_Spain"
                  when "DOMINICAN REPUBLIC"
-                   "America/Virgin"
+                   "America/Port_of_Spain"
                  when "TRINIDAD AND TOBAGO"
-                   "America/Virgin"
+                   "America/Port_of_Spain"
                  when "ST. KITTS AND NEVIS"
-                   "America/Virgin"
+                   "America/Port_of_Spain"
                  when "JAMAICA"
                    "America/Jamaica"
                  end
