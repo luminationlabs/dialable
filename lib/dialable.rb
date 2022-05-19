@@ -93,7 +93,7 @@ module Dialable
     private
 
     def timezone_offset(raw)
-      TZInfo::Timezone.get(raw).offsets_up_to(0).first.utc_total_offset / 3600
+      TZInfo::Timezone.get(raw).offsets_up_to(Time.now).first.utc_total_offset / 3600
     end
   end
 end
