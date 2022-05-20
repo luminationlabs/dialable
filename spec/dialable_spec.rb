@@ -25,7 +25,7 @@ describe Dialable do
   end
 
   context 'with a full NANP number with extension and appropriate daylight/standard time' do
-    let(:target_zone) { 'US/Mountain' }
+    let(:target_zone) { 'America/Denver' }
     subject { Dialable::NANP.parse('+1(307)555-1212 ext 1234') }
 
     it 'will determine the time zone during daylight savings or standard time' do
