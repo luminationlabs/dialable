@@ -1,1 +1,2139 @@
-../nanpa.yaml
+---
+201:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+202:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: DC
+203:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: CT
+204:
+  :country: CANADA
+  :timezones:
+  - America/Winnipeg
+  :location: MANITOBA
+205:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: AL
+206:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: WA
+207:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: ME
+208:
+  :country: US
+  :timezones:
+  - America/Denver
+  - America/Los_Angeles
+  :location: ID
+209:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+210:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+212:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+213:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+214:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+215:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+216:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+217:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+218:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MN
+219:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: IN
+220:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+223:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+224:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+225:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: LA
+226:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+228:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MS
+229:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+231:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+234:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+236:
+  :country: CANADA
+  :timezones:
+  - America/Vancouver
+  :location: BRITISH COLUMBIA
+239:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+240:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MD
+242:
+  :country: BAHAMAS
+  :timezones:
+  - America/Port_of_Spain
+  :location: US
+246:
+  :country: BARBADOS
+  :timezones:
+  - America/Barbados
+  :location: US
+248:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+249:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+250:
+  :country: CANADA
+  :timezones:
+  - America/Vancouver
+  :location: BRITISH COLUMBIA
+251:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: AL
+252:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NC
+253:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: WA
+254:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+256:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: AL
+260:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: IN
+262:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: WI
+264:
+  :country: ANGUILLA
+  :timezones:
+  - America/Anguilla
+  :location: US
+267:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+268:
+  :country: ANTIGUA/BARBUDA
+  :timezones:
+  - America/Antigua
+  :location: US
+269:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+270:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: KY
+272:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+276:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: VA
+279:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+281:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+284:
+  :country: BRITISH VIRGIN ISLANDS
+  :timezones:
+  - America/Port_of_Spain
+  :location: US
+289:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+301:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MD
+302:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: DE
+303:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: CO
+304:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: WV
+305:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+306:
+  :country: CANADA
+  :timezones:
+  - America/Winnipeg
+  :location: SASKATCHEWAN
+307:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: WY
+308:
+  :country: US
+  :timezones:
+  - America/Chicago
+  - America/Denver
+  :location: NE
+309:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+310:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+312:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+313:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+314:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MO
+315:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+316:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: KS
+317:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: IN
+318:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: LA
+319:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IA
+320:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MN
+321:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+323:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+325:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+326:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+330:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+331:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+332:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+334:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: AL
+336:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NC
+337:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: LA
+339:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MA
+340:
+  :country: US
+  :timezones:
+  - America/Port_of_Spain
+  :location: USVI
+341:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+343:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+345:
+  :country: CAYMAN ISLANDS
+  :timezones:
+  - America/Cayman
+  :location: US
+346:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+347:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+351:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MA
+352:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+360:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: WA
+361:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+364:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: KY
+365:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+367:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: QUEBEC
+368:
+  :country: CANADA
+  :timezones:
+  - America/Edmonton
+  :location: ALBERTA
+380:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+385:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: UT
+386:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+401:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: RI
+402:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: NE
+403:
+  :country: CANADA
+  :timezones:
+  - America/Edmonton
+  :location: ALBERTA
+404:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+405:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: OK
+406:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: MT
+407:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+408:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+409:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+410:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MD
+412:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+413:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MA
+414:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: WI
+415:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+416:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+417:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MO
+418:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: QUEBEC
+419:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+423:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: TN
+424:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+425:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: WA
+430:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+431:
+  :country: CANADA
+  :timezones:
+  - America/Winnipeg
+  :location: MANITOBA
+432:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+434:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: VA
+435:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: UT
+437:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+438:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: QUEBEC
+440:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+441:
+  :country: BERMUDA
+  :timezones:
+  - Atlantic/Bermuda
+  :location: US
+442:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+443:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MD
+445:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+447:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+448:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: FL
+450:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: QUEBEC
+458:
+  :country: US
+  :timezones:
+  - America/Denver
+  - America/Los_Angeles
+  :location: OR
+463:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: IN
+464:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+469:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+470:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+473:
+  :country: GRENADA
+  :timezones:
+  - America/Grenada
+  :location: US
+474:
+  :country: CANADA
+  :timezones:
+  - America/Winnipeg
+  :location: SASKATCHEWAN
+475:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: CT
+478:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+479:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: AR
+480:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: AZ
+484:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+500:
+  :country:
+  :location: US
+501:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: AR
+502:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: KY
+503:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: OR
+504:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: LA
+505:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: NM
+506:
+  :country: CANADA
+  :timezones:
+  - America/Halifax
+  :location: NEW BRUNSWICK
+507:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MN
+508:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MA
+509:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: WA
+510:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+512:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+513:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+514:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: QUEBEC
+515:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IA
+516:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+517:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+518:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+519:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+520:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: AZ
+521:
+  :country:
+522:
+  :country:
+  :location: US
+523:
+  :country:
+524:
+  :country:
+525:
+  :country:
+526:
+  :country: US
+  :timezones:
+  - America/New_York
+527:
+  :country: US
+  :timezones:
+  - America/New_York
+528:
+  :country: US
+  :timezones:
+  - America/New_York
+530:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+531:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: NE
+533:
+  :country:
+  :location: US
+534:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: WI
+539:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: OK
+540:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: VA
+541:
+  :country: US
+  :timezones:
+  - America/Denver
+  - America/Los_Angeles
+  :location: OR
+544:
+  :country:
+  :location: US
+548:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+551:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+559:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+561:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+562:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+563:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IA
+564:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: WA
+566:
+  :country:
+  :location: US
+567:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+570:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+571:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: VA
+572:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: OK
+573:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MO
+574:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: IN
+575:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: NM
+577:
+  :country:
+  :location: US
+579:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: QUEBEC
+580:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: OK
+581:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: QUEBEC
+582:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+585:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+586:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+587:
+  :country: CANADA
+  :timezones:
+  - America/Edmonton
+  :location: ALBERTA
+588:
+  :country:
+  :location: US
+600:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+601:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MS
+602:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: AZ
+603:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NH
+604:
+  :country: CANADA
+  :timezones:
+  - America/Vancouver
+  :location: BRITISH COLUMBIA
+605:
+  :country: US
+  :timezones:
+  - America/Chicago
+  - America/Denver
+  :location: SD
+606:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: KY
+607:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+608:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: WI
+609:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+610:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+612:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MN
+613:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+614:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+615:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TN
+616:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+617:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MA
+618:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+619:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+620:
+  :country: US
+  :timezones:
+  - America/Chicago
+  - America/Denver
+  :location: KS
+622:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: US
+623:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: AZ
+626:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+628:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+629:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TN
+630:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+631:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+636:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MO
+639:
+  :country: CANADA
+  :timezones:
+  - America/Winnipeg
+  :location: SASKATCHEWAN
+640:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+641:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IA
+646:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+647:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+649:
+  :country: TURKS & CAICOS ISLANDS
+  :timezones:
+  - America/Port_of_Spain
+  :location: US
+650:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+651:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MN
+656:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+657:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+658:
+  :country: JAMAICA
+  :timezones:
+  - America/Jamaica
+  :location: US
+659:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: AL
+660:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MO
+661:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+662:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MS
+664:
+  :country: MONTSERRAT
+  :timezones:
+  - America/Montserrat
+  :location: US
+667:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MD
+669:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+670:
+  :country: US
+  :timezones:
+  - Pacific/Guam
+  :location: CNMI
+671:
+  :country: US
+  :timezones:
+  - Pacific/Guam
+  :location: GU
+672:
+  :country: CANADA
+  :timezones:
+  - America/Vancouver
+  :location: BRITISH COLUMBIA
+678:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+680:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+681:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: WV
+682:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+684:
+  :country: US
+  :location: AS
+689:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+700:
+  :country:
+  :location: US
+701:
+  :country: US
+  :timezones:
+  - America/Chicago
+  - America/Denver
+  :location: ND
+702:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: NV
+703:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: VA
+704:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NC
+705:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+706:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+707:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+708:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+709:
+  :country: CANADA
+  :timezones:
+  - America/St_Johns
+  - America/Halifax
+  :location: NEWFOUNDLAND AND LABRADOR
+710:
+  :country: US
+  :timezones:
+  - America/New_York
+712:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IA
+713:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+714:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+715:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: WI
+716:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+717:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+718:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+719:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: CO
+720:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: CO
+721:
+  :country: SINT MAARTEN
+  :timezones:
+  - America/Port_of_Spain
+  :location: US
+724:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+725:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: NV
+726:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+727:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+731:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TN
+732:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+734:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+737:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+740:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+742:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+743:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NC
+747:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+753:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+754:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+757:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: VA
+758:
+  :country: ST. LUCIA
+  :timezones:
+  - America/St_Lucia
+  :location: US
+760:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+762:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+763:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MN
+765:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: IN
+767:
+  :country: DOMINICA
+  :timezones:
+  - America/Dominica
+  :location: US
+769:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MS
+770:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+771:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: DC
+772:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+773:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+774:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MA
+775:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: NV
+778:
+  :country: CANADA
+  :timezones:
+  - America/Vancouver
+  :location: BRITISH COLUMBIA
+779:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+780:
+  :country: CANADA
+  :timezones:
+  - America/Edmonton
+  :location: ALBERTA
+781:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MA
+782:
+  :country: CANADA
+  :timezones:
+  - America/Halifax
+  :location: NOVA SCOTIA - PRINCE EDWARD ISLAND
+784:
+  :country: ST. VINCENT & GRENADINES
+  :timezones:
+  - America/Port_of_Spain
+  :location: US
+785:
+  :country: US
+  :timezones:
+  - America/Chicago
+  - America/Denver
+  :location: KS
+786:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+787:
+  :country: US
+  :timezones:
+  - America/Puerto_Rico
+  :location: PUERTO RICO
+800:
+  :country:
+  :location: US
+801:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: UT
+802:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: VT
+803:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: SC
+804:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: VA
+805:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+806:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+807:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  - America/Winnipeg
+  :location: ONTARIO
+808:
+  :country: US
+  :timezones:
+  - Pacific/Honolulu
+  :location: HI
+809:
+  :country: DOMINICAN REPUBLIC
+  :timezones:
+  - America/Port_of_Spain
+  :location: US
+810:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+812:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: IN
+813:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+814:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+815:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+816:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MO
+817:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+818:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+819:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: QUEBEC
+820:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+825:
+  :country: CANADA
+  :timezones:
+  - America/Edmonton
+  :location: ALBERTA
+828:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NC
+829:
+  :country: DOMINICAN REPUBLIC
+  :timezones:
+  - America/Port_of_Spain
+  :location: US
+830:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+831:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+832:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+833:
+  :country:
+  :location: US
+838:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+839:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: SC
+840:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+843:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: SC
+844:
+  :country:
+  :location: US
+845:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+847:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+848:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+849:
+  :country: DOMINICAN REPUBLIC
+  :timezones:
+  - America/Port_of_Spain
+  :location: US
+850:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: FL
+854:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: SC
+855:
+  :country:
+  :location: US
+856:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+857:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MA
+858:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+859:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: KY
+860:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: CT
+862:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+863:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+864:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: SC
+865:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: TN
+866:
+  :country:
+  :location: US
+867:
+  :country: CANADA
+  :timezones:
+  - America/Winnipeg
+  - America/Edmonton
+  - America/Vancouver
+  :location: YUKON-NW TERR. - NUNAVUT
+868:
+  :country: TRINIDAD AND TOBAGO
+  :timezones:
+  - America/Port_of_Spain
+  :location: TRINIDAD & TOBAGO
+869:
+  :country: ST. KITTS AND NEVIS
+  :timezones:
+  - America/Port_of_Spain
+  :location: ST. KITTS & NEVIS
+870:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: AR
+872:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: IL
+873:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: QUEBEC
+876:
+  :country: JAMAICA
+  :timezones:
+  - America/Jamaica
+  :location: US
+877:
+  :country:
+  :location: US
+878:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: PA
+888:
+  :country:
+  :location: US
+900:
+  :country:
+  :location: US
+901:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TN
+902:
+  :country: CANADA
+  :timezones:
+  - America/Halifax
+  :location: NOVA SCOTIA - PRINCE EDWARD ISLAND
+903:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+904:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+905:
+  :country: CANADA
+  :timezones:
+  - America/Toronto
+  :location: ONTARIO
+906:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: MI
+907:
+  :country: US
+  :timezones:
+  - America/Anchorage
+  :location: AK
+908:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+909:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+910:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NC
+912:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+913:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: KS
+914:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+915:
+  :country: US
+  :timezones:
+  - America/Chicago
+  - America/Denver
+  :location: TX
+916:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+917:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+918:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: OK
+919:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NC
+920:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: WI
+925:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+928:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: AZ
+929:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+930:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: IN
+931:
+  :country: US
+  :timezones:
+  - America/New_York
+  - America/Chicago
+  :location: TN
+934:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NY
+936:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+937:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: OH
+938:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: AL
+939:
+  :country: US
+  :timezones:
+  - America/Puerto_Rico
+  :location: PUERTO RICO
+940:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+941:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+943:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: GA
+945:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+947:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
+948:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: VA
+949:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+951:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: CA
+952:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: MN
+954:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: FL
+956:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+959:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: CT
+970:
+  :country: US
+  :timezones:
+  - America/Denver
+  :location: CO
+971:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: OR
+972:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+973:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NJ
+978:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MA
+979:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: TX
+980:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NC
+984:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: NC
+985:
+  :country: US
+  :timezones:
+  - America/Chicago
+  :location: LA
+986:
+  :country: US
+  :timezones:
+  - America/Los_Angeles
+  :location: ID
+989:
+  :country: US
+  :timezones:
+  - America/New_York
+  :location: MI
