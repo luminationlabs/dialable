@@ -6,9 +6,9 @@ require 'yaml'
 # Headers from http://nanpa.com/area_codes/AreaCodeDatabaseDefinitions.xls
 headers = [:npa, :type_of_code, :assignable, :explanation, :reserved, :assigned, :asgt_date, :use, :location, :country, :in_service, :in_svc_date, :status, :pl, :blank, :overlay, :overlay_complex, :parent, :service, :time_zone, :blank, :map, :is_npa_in_jeopardy, :is_relief_planning_in_progress, :home_npa_local_calls, :home_npa_toll_calls, :foreign_npa_local_calls, :foreign_npa_toll_calls, :perm_hnpa_local, :perm_hnpa_toll, :perm_fnpa_local, :dp_notes]
 
-nanpa = { :created => Time.now }
+nanpa = {}
 
-curl = `curl -sL http://nanpa.com/nanp1/npa_report.csv`
+curl = `curl -sL https://www.nationalnanpa.com/nanp1/npa_report.csv`
 
 CSV.parse(curl, :headers => headers) do |row|
   next unless row.fetch(:npa) =~ /\A\d+\Z/ && row.fetch(:in_service).to_s =~ /y/i
@@ -77,6 +77,8 @@ CSV.parse(curl, :headers => headers) do |row|
           "America/Port_of_Spain"
         when 'PUERTO RICO'
           "America/Puerto_Rico"
+        when 'AZ'
+          "America/Phoenix"
         when 'AS'
           nil
         else
